@@ -1,16 +1,16 @@
-# Cosmolite – A Custom Macropad
+# Cosmolite – My Custom Macropad
 
-Cosmolite is a fun little project for creating your own custom macropad using the RP2040. It’s got 12 keys, 3 rotary encoders, and RGB lighting, so you can customize it however you like. Whether you're looking to speed up your workflow, improve your gaming setup, or just have some fun, Cosmolite gives you the tools to make it happen.
+Cosmolite is a personal project where I built a macropad using the RP2040. It’s got 12 keys, 3 rotary encoders, and RGB lighting, so I can customize it however I like. Whether it's for speeding up my workflow, gaming, or just messing around, this macropad is all about fitting my needs.
 
 ### What it’s got:
-- **RP2040**: Super fast and responsive controller to handle everything smoothly.
-- **12 Keys**: Fully programmable, so you can set up macros, shortcuts, or whatever you need.
-- **3 Rotary Encoders**: Perfect for tweaking volume, scrolling, or adjusting other settings on the fly.
-- **RGB Lighting**: Light up your desk with customizable colors and effects.
+- **RP2040**: Fast and responsive controller to handle everything smoothly.
+- **12 Keys**: Fully programmable for macros, shortcuts, or anything else I need.
+- **3 Rotary Encoders**: Perfect for controlling volume, scrolling, or tweaking other settings.
+- **RGB Lighting**: Customizable lighting to add a little flair to my desk setup.
 
-Cosmolite is all about giving you a simple way to set up a macropad that fits your needs. The firmware is open-source, so you can tweak it however you want. 
+This is more of a fun project for me, and the firmware is open-source, so I can tweak it however I want. 
 
-### How to get started:
+### How I set it up:
 1. Clone the repo
-2. Flash it onto your RP2040 board
-3. Play around with the keymap, encoders, and lighting to make it your own
+2. Flash it onto my RP2040 board
+3. Tinker with the keymap, encoders, and lighting to make it my own
